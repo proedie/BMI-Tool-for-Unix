@@ -15,7 +15,7 @@
   </Configurations>
   <Contents>
     <File subtype="Code" buildaction="Compile" name="main.vala" />
-    <File subtype="Code" buildaction="Nothing" name="gui/main_screen.glade" copyToOutputDirectory="PreserveNewest" />
+    <File subtype="Code" buildaction="Compile" name="gui/main_screen.glade" copyToOutputDirectory="PreserveNewest" />
   </Contents>
   <compiler />
   <Packages>
